@@ -1,0 +1,17 @@
+.container {
+  margin-top: 75px;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+}
+
+form, form input {
+  display: block;
+  margin-top: 25px;
+}
+
+.btn {
+  width: 100%;
+}
